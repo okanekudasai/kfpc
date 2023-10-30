@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "link_kf_on_PC",
     "description": "화면확대",
-    "version": "1.1",
+    "version": "1.2",
     "action": {
       "default_popup": "hello.html"
     },
@@ -10,7 +10,7 @@
         {
             "js": ["scripts/content.js"],
             "matches": [
-                "https://linkkf.app/player/*"
+                "https://kf.lesstv.info/player/*"
             ]
         }
     ]
